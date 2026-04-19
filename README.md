@@ -1,7 +1,9 @@
 <h1 align="center">🏆 Achievements Repository</h1>
 
 <p align="center">
-  A collection of my certificates, learning milestones, seminars, workshops, and academic achievements.
+  Welcome to my **Achievements Repository**!  
+This repository is a collection of my academic, technical, and professional milestones throughout my learning journey in **Programming, Artificial Intelligence, Machine Learning, Research, and Software Development**.
+ ```A collection of my certificates, learning milestones, seminars, workshops, and academic achievements.
 </p>
 
 <p align="center">
@@ -9,8 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Continuous%20Learning-success" />
   <img src="https://img.shields.io/badge/Role-Research%20Enthusiast-orange" />
 </p>
-Welcome to my **Achievements Repository**!  
-This repository is a collection of my academic, technical, and professional milestones throughout my learning journey in **Programming, Artificial Intelligence, Machine Learning, Research, and Software Development**.
 
 ---
 
