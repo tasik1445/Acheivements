@@ -1,11 +1,11 @@
 <h1 align="center">🏆 Achievements Repository</h1>
 
 <p align="center" text="bold">
-Welcome to my Achievements Repository!  
-This repository is a collection of my academic, technical, and professional milestones throughout my learning journey in Programming, Artificial Intelligence, Machine Learning, Research, and Software Development.
-
+<b>Welcome to my Achievements Repository! </b> 
 </p>
-
+<p align="center">
+  <b>A collection of my certificates, learning milestones, seminars, workshops, and academic achievements.</b>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Python-blue" />
   <img src="https://img.shields.io/badge/Status-Continuous%20Learning-success" />
