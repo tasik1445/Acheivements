@@ -1,9 +1,9 @@
 <h1 align="center">🏆 Achievements Repository</h1>
 
-<p align="center">
-  Welcome to my **Achievements Repository**!  
-This repository is a collection of my academic, technical, and professional milestones throughout my learning journey in **Programming, Artificial Intelligence, Machine Learning, Research, and Software Development**.
- ```A collection of my certificates, learning milestones, seminars, workshops, and academic achievements.
+<p align="center" text="bold">
+Welcome to my Achievements Repository!  
+This repository is a collection of my academic, technical, and professional milestones throughout my learning journey in Programming, Artificial Intelligence, Machine Learning, Research, and Software Development.
+
 </p>
 
 <p align="center">
