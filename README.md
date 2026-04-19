@@ -1,19 +1,11 @@
-# Achievements Repository
+<h1 align="center">🏆 Achievements Repository</h1>
 
-Welcome to my achievements repository.
+<p align="center">
+  A collection of my certificates, learning milestones, seminars, workshops, and academic achievements.
+</p>
 
-This repository contains my certifications, training records, workshop certificates, and other learning achievements collected throughout my academic and professional journey.
-
-## Categories
-- AI & Machine Learning
-- Programming
-- Data Science
-- Web Development
-- Workshops & Seminars
-- Competitions & Participation
-
-## Purpose
-I created this repository to keep all my verified skill certificates and achievements in one organized place.
-
-## About Me
-I am a final-year ICE student passionate about programming, AI, machine learning, and continuous skill development.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Python-blue" />
+  <img src="https://img.shields.io/badge/Status-Continuous%20Learning-success" />
+  <img src="https://img.shields.io/badge/Role-Research%20Enthusiast-orange" />
+</p>
